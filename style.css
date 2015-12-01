@@ -1,0 +1,21 @@
+li{
+	list-style-type: none;
+	display: inline-block;
+	padding:15px;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.active{
+	border-bottom: thick solid #ff0000;
+}
+.menu{
+	margin: auto;
+	right: 0;
+	left:0;
+	position: relative;
+	width:300px;
+}
